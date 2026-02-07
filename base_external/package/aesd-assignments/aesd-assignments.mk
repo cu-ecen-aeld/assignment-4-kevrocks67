@@ -5,7 +5,7 @@
 #
 ##############################################################
 
-AESD_ASSIGNMENTS_VERSION = 'df26f9a20b109953aaa11848795c5de1bea51c84'
+AESD_ASSIGNMENTS_VERSION = '6b7e41d4527e2471edbeaa25eb1e6d3225d5dc7e'
 AESD_ASSIGNMENTS_SITE = 'git@github.com:cu-ecen-aeld/assignments-3-and-later-kevrocks67.git'
 AESD_ASSIGNMENTS_SITE_METHOD = git
 AESD_ASSIGNMENTS_GIT_SUBMODULES = YES
